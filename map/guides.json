@@ -1,0 +1,226 @@
+[
+  {
+    "event_id": "3101",
+    "description": "开场指引"
+  },
+  {
+    "event_id": "3102",
+    "description": "开场指引"
+  },
+  {
+    "event_id": "3103",
+    "description": "开场指引"
+  },
+  {
+    "event_id": "3104",
+    "description": "开场指引"
+  },
+  {
+    "event_id": "1101",
+    "description": "进关卡1-1"
+  },
+  {
+    "event_id": "2011",
+    "description": "技能释放提示"
+  },
+  {
+    "event_id": "421",
+    "description": "换位置"
+  },
+  {
+    "event_id": "1201",
+    "description": "进关卡1-2"
+  },
+  {
+    "event_id": "501",
+    "description": "升级"
+  },
+  {
+    "event_id": "511",
+    "description": "穿装备"
+  },
+  {
+    "event_id": "1301",
+    "description": "进关卡1-3"
+  },
+  {
+    "event_id": "1401",
+    "description": "进关卡1-4"
+  },
+  {
+    "event_id": "1411",
+    "description": "进关卡1-5"
+  },
+  {
+    "event_id": "191",
+    "description": "首次进捉宠迷宫"
+  },
+  {
+    "event_id": "2601",
+    "description": "抓宠"
+  },
+  {
+    "event_id": "2602",
+    "description": "抓宠"
+  },
+  {
+    "event_id": "1421",
+    "description": "进关卡1-7"
+  },
+  {
+    "event_id": "391",
+    "description": "完成剧情1"
+  },
+  {
+    "event_id": "401",
+    "description": "抽卡"
+  },
+  {
+    "event_id": "2401",
+    "description": "新龙进化展示"
+  },
+  {
+    "event_id": "411",
+    "description": "橙龙升级"
+  },
+  {
+    "event_id": "1430",
+    "description": "通章动画"
+  },
+  {
+    "event_id": "1431",
+    "description": "进关卡2-1"
+  },
+  {
+    "event_id": "3001",
+    "description": "2-4剧情"
+  },
+  {
+    "event_id": "202",
+    "description": "开机关门"
+  },
+  {
+    "event_id": "101",
+    "description": "进日常迷宫"
+  },
+  {
+    "event_id": "491",
+    "description": "完成剧情2"
+  },
+  {
+    "event_id": "521",
+    "description": "升星"
+  },
+  {
+    "event_id": "1441",
+    "description": "进关卡2-5"
+  },
+  {
+    "event_id": "2801",
+    "description": "迷宫返回主城指引"
+  },
+  {
+    "event_id": "1451",
+    "description": "进关卡2-9"
+  },
+  {
+    "event_id": "1700",
+    "description": "爬塔"
+  },
+  {
+    "event_id": "1461",
+    "description": "进关卡2-13"
+  },
+  {
+    "event_id": "2301",
+    "description": "加入公会"
+  },
+  {
+    "event_id": "1471",
+    "description": "进关卡3-5"
+  },
+  {
+    "event_id": "801",
+    "description": "取名"
+  },
+  {
+    "event_id": "1600",
+    "description": "竞技场"
+  },
+  {
+    "event_id": "802",
+    "description": "取名"
+  },
+  {
+    "event_id": "701",
+    "description": "孵化"
+  },
+  {
+    "event_id": "2201",
+    "description": "派遣任务"
+  },
+  {
+    "event_id": "1481",
+    "description": "进关卡4-5"
+  },
+  {
+    "event_id": "2501",
+    "description": "共生之灵"
+  },
+  {
+    "event_id": "1491",
+    "description": "进关卡5-1"
+  },
+  {
+    "event_id": "2901",
+    "description": "幻境开启"
+  },
+  {
+    "event_id": "3201",
+    "description": "圣灵之地"
+  },
+  {
+    "event_id": "2611",
+    "description": "抓宠上2楼"
+  },
+  {
+    "event_id": "2701",
+    "description": "主城返回挂机指引"
+  },
+  {
+    "event_id": "10111",
+    "description": "失败指引"
+  },
+  {
+    "event_id": "10121",
+    "description": "失败指引"
+  },
+  {
+    "event_id": "10131",
+    "description": "失败指引"
+  },
+  {
+    "event_id": "10211",
+    "description": "失败指引"
+  },
+  {
+    "event_id": "10311",
+    "description": "失败指引"
+  },
+  {
+    "event_id": "10411",
+    "description": "失败指引"
+  },
+  {
+    "event_id": "10511",
+    "description": "失败指引"
+  },
+  {
+    "event_id": "10811",
+    "description": "失败指引"
+  },
+  {
+    "event_id": "10911",
+    "description": "失败指引"
+  }
+]

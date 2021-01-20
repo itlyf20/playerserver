@@ -1,0 +1,450 @@
+[
+  {
+    "role_id": "1",
+    "roleType": "3",
+    "careerType": "1",
+    "campType": "6",
+    "name": "图腾角色"
+  },
+  {
+    "role_id": "2",
+    "roleType": "4",
+    "careerType": "1",
+    "campType": "5",
+    "name": "符文角色"
+  },
+  {
+    "role_id": "1008",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "2",
+    "name": "弗洛格"
+  },
+  {
+    "role_id": "1011",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "5",
+    "name": "格里森"
+  },
+  {
+    "role_id": "1012",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "1",
+    "name": "卡姆斯"
+  },
+  {
+    "role_id": "1015",
+    "roleType": "1",
+    "careerType": "4",
+    "campType": "4",
+    "name": "艾瑞斯"
+  },
+  {
+    "role_id": "1016",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "6",
+    "name": "厄里尼斯"
+  },
+  {
+    "role_id": "1017",
+    "roleType": "1",
+    "careerType": "4",
+    "campType": "3",
+    "name": "菲尼克斯"
+  },
+  {
+    "role_id": "1018",
+    "roleType": "1",
+    "careerType": "3",
+    "campType": "2",
+    "name": "卡利隆"
+  },
+  {
+    "role_id": "1019",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "1",
+    "name": "海格力斯"
+  },
+  {
+    "role_id": "1020",
+    "roleType": "1",
+    "careerType": "3",
+    "campType": "4",
+    "name": "莉丝"
+  },
+  {
+    "role_id": "1021",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "4",
+    "name": "哈利"
+  },
+  {
+    "role_id": "1022",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "3",
+    "name": "杰特"
+  },
+  {
+    "role_id": "1023",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "5",
+    "name": "玛格丽特"
+  },
+  {
+    "role_id": "1024",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "2",
+    "name": "莱恩"
+  },
+  {
+    "role_id": "1025",
+    "roleType": "1",
+    "careerType": "4",
+    "campType": "6",
+    "name": "科兹莫"
+  },
+  {
+    "role_id": "1026",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "1",
+    "name": "塞巴斯蒂安"
+  },
+  {
+    "role_id": "1027",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "3",
+    "name": "加菲尔德"
+  },
+  {
+    "role_id": "1028",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "4",
+    "name": "伯特"
+  },
+  {
+    "role_id": "1029",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "6",
+    "name": "古利德"
+  },
+  {
+    "role_id": "1030",
+    "roleType": "1",
+    "careerType": "4",
+    "campType": "2",
+    "name": "爱德华"
+  },
+  {
+    "role_id": "1031",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "3",
+    "name": "布莱德"
+  },
+  {
+    "role_id": "1032",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "1",
+    "name": "伊利亚"
+  },
+  {
+    "role_id": "1033",
+    "roleType": "1",
+    "careerType": "3",
+    "campType": "3",
+    "name": "伏尔甘"
+  },
+  {
+    "role_id": "1034",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "4",
+    "name": "乌拉诺斯"
+  },
+  {
+    "role_id": "1035",
+    "roleType": "1",
+    "careerType": "3",
+    "campType": "1",
+    "name": "泰拉"
+  },
+  {
+    "role_id": "1036",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "2",
+    "name": "尼普顿"
+  },
+  {
+    "role_id": "1037",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "2",
+    "name": "达尔文"
+  },
+  {
+    "role_id": "1038",
+    "roleType": "1",
+    "careerType": "3",
+    "campType": "3",
+    "name": "索尔"
+  },
+  {
+    "role_id": "1039",
+    "roleType": "1",
+    "careerType": "4",
+    "campType": "1",
+    "name": "恩维"
+  },
+  {
+    "role_id": "1040",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "4",
+    "name": "格罗弗"
+  },
+  {
+    "role_id": "1042",
+    "roleType": "1",
+    "careerType": "3",
+    "campType": "4",
+    "name": "丹尼尔"
+  },
+  {
+    "role_id": "1043",
+    "roleType": "2",
+    "careerType": "3",
+    "campType": "2",
+    "name": "托比"
+  },
+  {
+    "role_id": "1101",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "7",
+    "name": "埃德温"
+  },
+  {
+    "role_id": "2001",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "1",
+    "name": "特雷西"
+  },
+  {
+    "role_id": "2002",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "2",
+    "name": "托勒斯"
+  },
+  {
+    "role_id": "2003",
+    "roleType": "1",
+    "careerType": "3",
+    "campType": "3",
+    "name": "里奇"
+  },
+  {
+    "role_id": "2004",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "4",
+    "name": "克莉斯"
+  },
+  {
+    "role_id": "2005",
+    "roleType": "1",
+    "careerType": "4",
+    "campType": "5",
+    "name": "格里斯"
+  },
+  {
+    "role_id": "2006",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "6",
+    "name": "贾纽厄里"
+  },
+  {
+    "role_id": "2007",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "1",
+    "name": "卡利亚"
+  },
+  {
+    "role_id": "2009",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "3",
+    "name": "阿库里斯"
+  },
+  {
+    "role_id": "2010",
+    "roleType": "1",
+    "careerType": "3",
+    "campType": "4",
+    "name": "鲨士比亚"
+  },
+  {
+    "role_id": "2013",
+    "roleType": "1",
+    "careerType": "4",
+    "campType": "2",
+    "name": "毛克利"
+  },
+  {
+    "role_id": "2014",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "4",
+    "name": "克里弥斯"
+  },
+  {
+    "role_id": "3001",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "1",
+    "name": "塔姆"
+  },
+  {
+    "role_id": "3002",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "2",
+    "name": "贝利贝奥"
+  },
+  {
+    "role_id": "3003",
+    "roleType": "1",
+    "careerType": "3",
+    "campType": "3",
+    "name": "蹄尼"
+  },
+  {
+    "role_id": "3004",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "4",
+    "name": "费伊"
+  },
+  {
+    "role_id": "3005",
+    "roleType": "1",
+    "careerType": "4",
+    "campType": "5",
+    "name": "古斯塔"
+  },
+  {
+    "role_id": "3006",
+    "roleType": "1",
+    "careerType": "2",
+    "campType": "6",
+    "name": "艾丹"
+  },
+  {
+    "role_id": "3007",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "1",
+    "name": "莫菲特"
+  },
+  {
+    "role_id": "3009",
+    "roleType": "1",
+    "careerType": "1",
+    "campType": "3",
+    "name": "奥利弗拉"
+  },
+  {
+    "role_id": "3010",
+    "roleType": "1",
+    "careerType": "3",
+    "campType": "4",
+    "name": "弗兰克"
+  },
+  {
+    "role_id": "3013",
+    "roleType": "1",
+    "careerType": "4",
+    "campType": "2",
+    "name": "费尔顿"
+  },
+  {
+    "role_id": "4001",
+    "roleType": "2",
+    "careerType": "1",
+    "campType": "6",
+    "name": "公会BOSS"
+  },
+  {
+    "role_id": "4002",
+    "roleType": "2",
+    "careerType": "1",
+    "campType": "6",
+    "name": "公会BOSS2"
+  },
+  {
+    "role_id": "4003",
+    "roleType": "2",
+    "careerType": "2",
+    "campType": "5",
+    "name": "迷宫小boss"
+  },
+  {
+    "role_id": "5001",
+    "roleType": "2",
+    "careerType": "1",
+    "campType": "6",
+    "name": "开场宝箱龙"
+  },
+  {
+    "role_id": "12003",
+    "roleType": "2",
+    "careerType": "3",
+    "campType": "3",
+    "name": "里奇"
+  },
+  {
+    "role_id": "101008",
+    "roleType": "2",
+    "careerType": "2",
+    "campType": "2",
+    "name": "迷宫瘦"
+  },
+  {
+    "role_id": "101015",
+    "roleType": "2",
+    "careerType": "4",
+    "campType": "4",
+    "name": "迷宫胖"
+  },
+  {
+    "role_id": "101017",
+    "roleType": "2",
+    "careerType": "4",
+    "campType": "3",
+    "name": "迷宫鸡"
+  },
+  {
+    "role_id": "101019",
+    "roleType": "2",
+    "careerType": "1",
+    "campType": "1",
+    "name": "变身龙"
+  }
+]

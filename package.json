@@ -1,0 +1,25 @@
+{
+  "name": "playerserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "luoyunfei",
+  "license": "ISC",
+  "dependencies": {
+    "ali-oss": "^6.13.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.28",
+    "nodemon": "^2.0.7",
+    "request": "^2.88.2",
+    "supervisor": "^0.12.0",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
